@@ -7,4 +7,4 @@ rh.remove_holes()
 ### or
 jypter test.iypnb
 ## Example
-![]( http://vlm1.uta.edu/~athitsos/courses/cse4310_spring2019/assignments/assignment2/data/zebra_with_holes.gif =150x)![]( http://vlm1.uta.edu/~athitsos/courses/cse4310_spring2019/assignments/assignment2/data/zebra_without_holes.gif =150x)
+![]( http://vlm1.uta.edu/~athitsos/courses/cse4310_spring2019/assignments/assignment2/data/zebra_with_holes.gif  | =150x150)![]( http://vlm1.uta.edu/~athitsos/courses/cse4310_spring2019/assignments/assignment2/data/zebra_without_holes.gif =150x150)
